@@ -1,0 +1,14 @@
+C:\Users\SENAN\source\repos\GarageHomeWork5\GarageHomeWork5\bin\Debug\net6.0\GarageHomeWork5.exe
+C:\Users\SENAN\source\repos\GarageHomeWork5\GarageHomeWork5\bin\Debug\net6.0\GarageHomeWork5.deps.json
+C:\Users\SENAN\source\repos\GarageHomeWork5\GarageHomeWork5\bin\Debug\net6.0\GarageHomeWork5.runtimeconfig.json
+C:\Users\SENAN\source\repos\GarageHomeWork5\GarageHomeWork5\bin\Debug\net6.0\GarageHomeWork5.dll
+C:\Users\SENAN\source\repos\GarageHomeWork5\GarageHomeWork5\bin\Debug\net6.0\GarageHomeWork5.pdb
+C:\Users\SENAN\source\repos\GarageHomeWork5\GarageHomeWork5\obj\Debug\net6.0\GarageHomeWork5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SENAN\source\repos\GarageHomeWork5\GarageHomeWork5\obj\Debug\net6.0\GarageHomeWork5.AssemblyInfoInputs.cache
+C:\Users\SENAN\source\repos\GarageHomeWork5\GarageHomeWork5\obj\Debug\net6.0\GarageHomeWork5.AssemblyInfo.cs
+C:\Users\SENAN\source\repos\GarageHomeWork5\GarageHomeWork5\obj\Debug\net6.0\GarageHomeWork5.csproj.CoreCompileInputs.cache
+C:\Users\SENAN\source\repos\GarageHomeWork5\GarageHomeWork5\obj\Debug\net6.0\GarageHomeWork5.dll
+C:\Users\SENAN\source\repos\GarageHomeWork5\GarageHomeWork5\obj\Debug\net6.0\refint\GarageHomeWork5.dll
+C:\Users\SENAN\source\repos\GarageHomeWork5\GarageHomeWork5\obj\Debug\net6.0\GarageHomeWork5.pdb
+C:\Users\SENAN\source\repos\GarageHomeWork5\GarageHomeWork5\obj\Debug\net6.0\GarageHomeWork5.genruntimeconfig.cache
+C:\Users\SENAN\source\repos\GarageHomeWork5\GarageHomeWork5\obj\Debug\net6.0\ref\GarageHomeWork5.dll
